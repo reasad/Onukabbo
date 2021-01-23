@@ -12,7 +12,7 @@
 
 ## Introduction
 
-"Onukabbo" is cross platform Bangla blog site. It will allow Bengali bloggers to spread their voice on different issues. Its prime goal will be to connect bloggers with their readers more stronger and simpler way. Readers will be able to give feedback on post and writers will be informed about different topics to improve their writings.<>
+"Onukabbo" is cross platform blog site. It will allow bloggers to spread their voice on different issues. Its prime goal will be to connect bloggers with their readers more stronger and simpler way. Readers will be able to give feedback on post and writers will be informed about different topics to improve their writings.
 
 Advantages / Goals of Proposed System:<br>
 ● Great user interface.<br>
